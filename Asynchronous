@@ -1,0 +1,7 @@
+Rate=600
+Salary=600*15
+Tax=Salary*.3
+Net_pay=Salary-Tax
+print("Salary: ", Salary)
+print("Taxable Amount: ", Tax)
+print("Net Pay: ", Net_pay)
